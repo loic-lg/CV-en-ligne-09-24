@@ -292,6 +292,12 @@ color: black;
         width: 98%;
         margin: 1vh auto;
     }
+    nav{
+        justify-content: center;
+    }
+    nav ul {
+        display: none;
+    }
     .container {
         width: 100%;
         max-width: 100%;
